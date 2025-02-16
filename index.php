@@ -12,5 +12,9 @@
 <p>
     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam placeat minus odio, quos, laborum soluta accusamus tempora ratione qui odit distinctio velit corporis ipsum, veniam est at voluptatibus nulla laboriosam?
 </p>
+<ul>
+    <l1> satu </l1>
+    <l2> dua <l2>
+</ul>
 </body>
 </html>
